@@ -1,7 +1,10 @@
-[![zoner.work][badge_z]][sharkey]<a rel="me" href="https://zoner.work/@d"></a> [![Build][badge_w]][workflow]
+[![zoner.work][badge_z]][sharkey]<a rel="me" href="https://zoner.work/@d"></a> [![bsky.app][badge_b]][atproto] [![Build][badge_w]][workflow]
 
-[badge_z]: https://img.shields.io/badge/zoner.work%20-F1007E.svg?e&logo=activitypub&logoColor=white
+[badge_z]: https://img.shields.io/badge/%20-F1007E.svg?e&logo=activitypub&logoColor=white
 [sharkey]: https://zoner.work/@d
+
+[badge_b]: https://img.shields.io/badge/%20-0285FF.svg?e&logo=bluesky&logoColor=white
+[atproto]: https://bsky.app/profile/dzhr.ch
 
 [badge_w]: https://img.shields.io/github/actions/workflow/status/dzhira/dzhira/ci.yml?branch=main
 [workflow]: https://github.com/dzhira/dzhira/actions?query=workflow%3A%22penrose%22
